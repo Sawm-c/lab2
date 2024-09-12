@@ -80,7 +80,7 @@ h2 {
   /* flex-direction: row; */
   align-self: center;
 }
-. button {
+button {
   /* background-color: rgb(199, 199, 199); */
   border: 1px;
   box-shadow: 0.5px 0.5px;
