@@ -1,0 +1,91 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  /* max-width: 100%; */
+  color: black;
+  background-color: white;
+}
+.box {
+  /* border: 1px hidden black; */
+  margin-left: 100px;
+  margin-right: 100px;
+  margin-top: -10px;
+  margin-bottom: 0px;
+  background-color: #d6eaf8;
+  max-width: 120%;
+}
+table {
+  border-collapse: collapse;
+  /* background-color: black; */
+}
+th,
+td {
+  border: 1px solid black;
+  /* background-color: white; */
+}
+th {
+  text-align: center;
+}
+.le td {
+  /* background-color: rgb(227, 227, 227); */
+}
+
+img {
+  max-width: 20%;
+  display: block;
+  margin: 0px auto;
+}
+h1 {
+  display: block;
+  text-align: center;
+}
+
+h2 {
+  /* background-color: #a9cce3; */
+  /* color: #3c7cba; */
+}
+.fc1 {
+  /* color: #3a5b95; */
+}
+.fc2 {
+  /* color: #5d98d4; */
+}
+.sp1 {
+  /* color: #688fcc; */
+}
+.l1 {
+  /* color: #648ccc; */
+}
+.form {
+  width: 500;
+  /* padding: 20px; */
+}
+.cot {
+  display: flex;
+  align-items: start;
+  margin-bottom: 10px;
+}
+.cot label {
+  width: 120px;
+  text-align: left;
+  margin-right: 10px;
+}
+.checkbox {
+  display: flex;
+  flex-direction: column;
+  /* align-items: center; */
+  gap: 5px;
+}
+.hobbies {
+  /* display: flex; */
+  /* flex-direction: row; */
+  align-self: center;
+}
+. button {
+  /* background-color: rgb(199, 199, 199); */
+  border: 1px;
+  box-shadow: 0.5px 0.5px;
+  width: 60px;
+  display: inline-block;
+  margin-right: -120px;
+  margin-left: 130px;
+}
