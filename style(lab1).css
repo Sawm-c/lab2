@@ -8,10 +8,10 @@ body {
   /* border: 1px hidden black; */
   margin-left: 100px;
   margin-right: 100px;
-  margin-top: 0px;
-  margin-bottom: 0px;
+/*   margin-top: 0px; */
+/*   margin-bottom: 0px; */
   background-color: #d6eaf8;
-  max-width: 120%;
+/*   max-width: 120%; */
 }
 table {
   border-collapse: collapse;
