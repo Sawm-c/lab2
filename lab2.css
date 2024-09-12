@@ -1,0 +1,30 @@
+body {
+  background-color: #595547;
+  color: white;
+}
+.blue {
+  color: #80a2da;
+  text-transform: capitalize;
+}
+.yellow {
+  color: yellow;
+}
+h1.blue {
+  font-size: 50px;
+}
+.box {
+  border-bottom: 1px solid;
+}
+.red {
+  color: red;
+  text-decoration: underline;
+}
+.logo {
+  width: 50px;
+}
+.small {
+  width: 30%;
+}
+.italic {
+  font-style: italic;
+}
