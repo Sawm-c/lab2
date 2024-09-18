@@ -54,3 +54,13 @@ img {
   display: block;
   margin: 0px auto;
 }
+.box {
+  /* border: 1px hidden black; */
+  /* margin-left: 100px;
+  margin-right: 100px;
+  margin-top: -10px;
+  margin-bottom: 0px; */
+  margin: 0px 70px;
+  background-color: #a9cce3;
+  max-width: 120%;
+}
